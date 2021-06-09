@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53af4fde-1cfd-4e9a-9c50-912cd2003247" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1tUJ6kLFGwejVpd8yR0Q3reFErI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.15.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="10.17.60" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../todo-3-frontend" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53af4fde-1cfd-4e9a-9c50-912cd2003247" name="Default Changelist" comment="" />
+      <created>1622817560941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622817560941</updated>
+      <workItem from="1622817569390" duration="77000" />
+      <workItem from="1622817681065" duration="627000" />
+      <workItem from="1622837521109" duration="303000" />
+      <workItem from="1622887872298" duration="6624000" />
+      <workItem from="1622901403682" duration="4334000" />
+      <workItem from="1622909147581" duration="186000" />
+      <workItem from="1622974120755" duration="597000" />
+      <workItem from="1622979300443" duration="88000" />
+      <workItem from="1623060112080" duration="896000" />
+      <workItem from="1623270950688" duration="103000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
